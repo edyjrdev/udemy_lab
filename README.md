@@ -20,6 +20,7 @@
 * [Vitor Mazuco](https://www.udemy.com/user/vitor-mazuco/)
 * [Andre Iacono](https://www.udemy.com/user/andreiacono/)
 * [Geek University](https://www.udemy.com/user/geek-university/)
+* [Matheus Battisti](https://www.libreoffice.pro/#A/user/matheus-battisti/)
 ---
 ### Internacionais
 * [Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
@@ -37,6 +38,7 @@
 * [Learning Technologies](https://www.udemy.com/user/learning-technologies-2/)
 * [Faisal Zamir](https://www.udemy.com/user/faisal-zamir/)
 * [Laurence Svekis](https://omsi-2.com/#A/user/lars51/)
+* [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/)
 * [Mumshad Mannambeth](https://www.udemy.com/user/mumshad-mannambeth/)
 * [Nikolai Schuler](https://www.udemy.com/user/nikolai-schuler/)
 * [Federico Garay](https://www.udemy.com/user/fedegaray/)
@@ -45,6 +47,8 @@
 * [School of Devops](https://www.udemy.com/user/gourav-shah-2/)
 * [TechLynk Selenium](https://www.udemy.com/user/anshul-chauhan-7/)
 * [Business Improvement & Transformation Courses](https://www.udemy.com/user/business-improvement-and-transformation-courses/)
+[School of AI](https://www.udemy.com/user/school-of-ai/)
+* [Bogdan Stashchuk](https://www.crosshairx2.com/#A/user/bogdanstashchuk/)
 
 ---
 
