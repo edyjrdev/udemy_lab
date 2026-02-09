@@ -21,6 +21,7 @@
 * [Andre Iacono](https://www.udemy.com/user/andreiacono/)
 * [Geek University](https://www.udemy.com/user/geek-university/)
 * [Matheus Battisti](https://www.libreoffice.pro/#A/user/matheus-battisti/)
+* [Cassio Alessandro de Bolba](https://apexlegends.org/#A/user/cassio-alessandro-de-bolba/)
 ---
 ### Internacionais
 * [Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
