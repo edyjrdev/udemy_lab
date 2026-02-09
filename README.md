@@ -55,4 +55,6 @@
 
 ## Cursos
 ### Brasileiros
+[Python:Selenium + Python pra Web Scraping e Automação COMPLETO](https://www.udemy.com/course/selenium-web-scraping-e-automacao)
+
 ### Internacionais
