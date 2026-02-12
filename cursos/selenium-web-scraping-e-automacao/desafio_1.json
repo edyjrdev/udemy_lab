@@ -15,7 +15,7 @@
         "email": "daniela00@example.com",
         "senha": "zZz4@J3ec@",
         "data-de-nascimento": "1971-08-24",
-        "newsletter": true
+        "newsletter": false
     },
     {
         "email": "nogueiralorenzo@example.com",
@@ -27,7 +27,7 @@
         "email": "gcardoso@example.net",
         "senha": "OAHsP2Eu_h",
         "data-de-nascimento": "1990-04-20",
-        "newsletter": true
+        "newsletter": false
     },
     {
         "email": "lorenzoaragao@example.org",
