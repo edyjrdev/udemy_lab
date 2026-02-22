@@ -1,0 +1,394 @@
+[
+    {
+        "sub_id":554,
+        "sub_original":"Game Development & Design"
+    },
+    {
+        "sub_id":614,
+        "sub_original":"World Languages"
+    },
+    {
+        "sub_id":510,
+        "sub_original":"Data Visualization"
+    },
+    {
+        "sub_id":486,
+        "sub_original":"Personal Growth"
+    },
+    {
+        "sub_id":468,
+        "sub_original":"Collaboration"
+    },
+    {
+        "sub_id":422,
+        "sub_original":"Finance"
+    },
+    {
+        "sub_id":442,
+        "sub_original":"Networking"
+    },
+    {
+        "sub_id":464,
+        "sub_original":"Search Engine Optimization"
+    },
+    {
+        "sub_id":610,
+        "sub_original":"English Language Learning"
+    },
+    {
+        "sub_id":410,
+        "sub_original":"Programming Languages"
+    },
+    {
+        "sub_id":414,
+        "sub_original":"Web Development"
+    },
+    {
+        "sub_id":578,
+        "sub_original":"Software Engineering"
+    },
+    {
+        "sub_id":390,
+        "sub_original":"Cloud Development"
+    },
+    {
+        "sub_id":432,
+        "sub_original":"Learning & Development"
+    },
+    {
+        "sub_id":408,
+        "sub_original":"Mobile Development"
+    },
+    {
+        "sub_id":452,
+        "sub_original":"Strategy"
+    },
+    {
+        "sub_id":440,
+        "sub_original":"IT Certifications"
+    },
+    {
+        "sub_id":396,
+        "sub_original":"Photo & Video Editing Tools"
+    },
+    {
+        "sub_id":430,
+        "sub_original":"Human Resources Fundamentals"
+    },
+    {
+        "sub_id":434,
+        "sub_original":"Talent Management"
+    },
+    {
+        "sub_id":458,
+        "sub_original":"Marketing Strategy"
+    },
+    {
+        "sub_id":394,
+        "sub_original":"Design & Illustration Tools"
+    },
+    {
+        "sub_id":618,
+        "sub_original":"Business Analysis"
+    },
+    {
+        "sub_id":629,
+        "sub_original":"Generative AI for Tech"
+    },
+    {
+        "sub_id":512,
+        "sub_original":"Machine Learning"
+    },
+    {
+        "sub_id":518,
+        "sub_original":"Marketing Analytics & Automation"
+    },
+    {
+        "sub_id":494,
+        "sub_original":"Project Management Certifications"
+    },
+    {
+        "sub_id":496,
+        "sub_original":"Project Management"
+    },
+    {
+        "sub_id":626,
+        "sub_original":"Office Productivity & Collaboration Tools"
+    },
+    {
+        "sub_id":404,
+        "sub_original":"Database Design & Development"
+    },
+    {
+        "sub_id":466,
+        "sub_original":"Social Media Marketing"
+    },
+    {
+        "sub_id":444,
+        "sub_original":"Operating Systems & Servers"
+    },
+    {
+        "sub_id":388,
+        "sub_original":"Cloud Certifications"
+    },
+    {
+        "sub_id":412,
+        "sub_original":"Software Testing"
+    },
+    {
+        "sub_id":631,
+        "sub_original":"Generative AI for Business"
+    },
+    {
+        "sub_id":392,
+        "sub_original":"3D & Animation Tools"
+    },
+    {
+        "sub_id":450,
+        "sub_original":"Management"
+    },
+    {
+        "sub_id":506,
+        "sub_original":"Big Data"
+    },
+    {
+        "sub_id":406,
+        "sub_original":"DevOps"
+    },
+    {
+        "sub_id":418,
+        "sub_original":"Accounting Software"
+    },
+    {
+        "sub_id":602,
+        "sub_original":"Defensive Security"
+    },
+    {
+        "sub_id":628,
+        "sub_original":"Generative AI Tools"
+    },
+    {
+        "sub_id":620,
+        "sub_original":"Fundamentals of Communication"
+    },
+    {
+        "sub_id":608,
+        "sub_original":"Career Success"
+    },
+    {
+        "sub_id":426,
+        "sub_original":"Investing & Trading"
+    },
+    {
+        "sub_id":478,
+        "sub_original":"Arts & Creativity"
+    },
+    {
+        "sub_id":490,
+        "sub_original":"Agile & Scrum"
+    },
+    {
+        "sub_id":480,
+        "sub_original":"Health & Fitness"
+    },
+    {
+        "sub_id":594,
+        "sub_original":"No Code\/Low Code Development"
+    },
+    {
+        "sub_id":456,
+        "sub_original":"Digital Marketing"
+    },
+    {
+        "sub_id":402,
+        "sub_original":"Web & Mobile Design"
+    },
+    {
+        "sub_id":446,
+        "sub_original":"Communication"
+    },
+    {
+        "sub_id":436,
+        "sub_original":"Database Administration"
+    },
+    {
+        "sub_id":454,
+        "sub_original":"Content Marketing"
+    },
+    {
+        "sub_id":424,
+        "sub_original":"Financial Modeling & Analysis"
+    },
+    {
+        "sub_id":448,
+        "sub_original":"Leadership"
+    },
+    {
+        "sub_id":598,
+        "sub_original":"Cybersecurity Certifications"
+    },
+    {
+        "sub_id":592,
+        "sub_original":"Math & Statistics"
+    },
+    {
+        "sub_id":504,
+        "sub_original":"Analytics"
+    },
+    {
+        "sub_id":500,
+        "sub_original":"Customer Success & Customer Service"
+    },
+    {
+        "sub_id":400,
+        "sub_original":"User Experience Design"
+    },
+    {
+        "sub_id":624,
+        "sub_original":"Public Speaking & Presentations"
+    },
+    {
+        "sub_id":460,
+        "sub_original":"Paid Advertising"
+    },
+    {
+        "sub_id":502,
+        "sub_original":"Sales Skills & Tools"
+    },
+    {
+        "sub_id":572,
+        "sub_original":"Life Skills"
+    },
+    {
+        "sub_id":600,
+        "sub_original":"Security Awareness"
+    },
+    {
+        "sub_id":606,
+        "sub_original":"Governance, Risk, and Compliance"
+    },
+    {
+        "sub_id":488,
+        "sub_original":"Stress Management"
+    },
+    {
+        "sub_id":588,
+        "sub_original":"Supply Chain Management"
+    },
+    {
+        "sub_id":612,
+        "sub_original":"English Language Test Prep"
+    },
+    {
+        "sub_id":438,
+        "sub_original":"Hardware"
+    },
+    {
+        "sub_id":492,
+        "sub_original":"Operations Management"
+    },
+    {
+        "sub_id":580,
+        "sub_original":"Diversity, Equity & Inclusion (DEI)"
+    },
+    {
+        "sub_id":616,
+        "sub_original":"Environmental, Social & Governance (ESG)"
+    },
+    {
+        "sub_id":516,
+        "sub_original":"Statistical Analysis"
+    },
+    {
+        "sub_id":416,
+        "sub_original":"Accounting"
+    },
+    {
+        "sub_id":584,
+        "sub_original":"PMI Professional Development Units (PDUs)"
+    },
+    {
+        "sub_id":574,
+        "sub_original":"Entrepreneurship"
+    },
+    {
+        "sub_id":622,
+        "sub_original":"Written Communication"
+    },
+    {
+        "sub_id":428,
+        "sub_original":"Compliance"
+    },
+    {
+        "sub_id":498,
+        "sub_original":"Project Management Tools"
+    },
+    {
+        "sub_id":560,
+        "sub_original":"Work Safety"
+    },
+    {
+        "sub_id":604,
+        "sub_original":"Offensive Security"
+    },
+    {
+        "sub_id":384,
+        "sub_original":"Spreadsheets"
+    },
+    {
+        "sub_id":590,
+        "sub_original":"Product Management"
+    },
+    {
+        "sub_id":474,
+        "sub_original":"Presentations"
+    },
+    {
+        "sub_id":386,
+        "sub_original":"Cloud Fundamentals"
+    },
+    {
+        "sub_id":514,
+        "sub_original":"Data Dashboards"
+    },
+    {
+        "sub_id":472,
+        "sub_original":"Operating Systems"
+    },
+    {
+        "sub_id":556,
+        "sub_original":"Game Design"
+    },
+    {
+        "sub_id":570,
+        "sub_original":"Hobbies"
+    },
+    {
+        "sub_id":420,
+        "sub_original":"Corporate Finance"
+    },
+    {
+        "sub_id":470,
+        "sub_original":"Email & Productivity"
+    },
+    {
+        "sub_id":476,
+        "sub_original":"Word Processing"
+    },
+    {
+        "sub_id":586,
+        "sub_original":"CompTIA Continuing Education (CE)"
+    },
+    {
+        "sub_id":582,
+        "sub_original":"NASBA Continuing Professional Education (CPE)"
+    },
+    {
+        "sub_id":398,
+        "sub_original":"Mobile Design"
+    },
+    {
+        "sub_id":482,
+        "sub_original":"Language Learning"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "level_id":"Beginner",
+        "level_pt_br":"Iniciante"
+    },
+    {
+        "level_id":"All Levels",
+        "level_pt_br":"Todos os Níveis"
+    },
+    {
+        "level_id":"Intermediate",
+        "level_pt_br":"Intermediário"
+    },
+    {
+        "level_id":"Expert",
+        "level_pt_br":"Especialista"
+    }
+]

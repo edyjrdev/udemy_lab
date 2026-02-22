@@ -1,1130 +1,942 @@
 [
     {
-        "student_hash":"a88792d7d4d57d9b5e9efdb70ddedbc3d2fcd8e11e6655fc5420e255fe13271c",
-        "full_name_masked":"Aluno 01",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"a88792d7d4d57d9b5e9efdb70ddedbc3d2fcd8e11e6655fc5420e255fe13271c",
+        "full_name":"Aluno 01",
+        "status":true
     },
     {
-        "student_hash":"177974819e8613703377c5c7b9a5aaa7b3fd6e860184b84da1fe7349dfc1dd73",
-        "full_name_masked":"Aluno 02",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"177974819e8613703377c5c7b9a5aaa7b3fd6e860184b84da1fe7349dfc1dd73",
+        "full_name":"Aluno 02",
+        "status":true
     },
     {
-        "student_hash":"115763a1ac31fd1854bf587409c1568689f3f33b8db67c50d85596ddeb48e47e",
-        "full_name_masked":"Aluno 03",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"115763a1ac31fd1854bf587409c1568689f3f33b8db67c50d85596ddeb48e47e",
+        "full_name":"Aluno 03",
+        "status":true
     },
     {
-        "student_hash":"167d9186969aa22749890bc9e65a48a51bf95c9c4b50c31c61adaa2b0d1b18ff",
-        "full_name_masked":"Aluno 04",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"167d9186969aa22749890bc9e65a48a51bf95c9c4b50c31c61adaa2b0d1b18ff",
+        "full_name":"Aluno 04",
+        "status":true
     },
     {
-        "student_hash":"5a4cd913f571189ce6dbd703d69a8bc046f232b9ce2e3eef59dec33ebcea1a2e",
-        "full_name_masked":"Aluno 05",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"5a4cd913f571189ce6dbd703d69a8bc046f232b9ce2e3eef59dec33ebcea1a2e",
+        "full_name":"Aluno 05",
+        "status":true
     },
     {
-        "student_hash":"e079074a6d538316c3fc47c5a92b8017e93999f7525a889cca9d6bbd422c39f0",
-        "full_name_masked":"Aluno 06",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"e079074a6d538316c3fc47c5a92b8017e93999f7525a889cca9d6bbd422c39f0",
+        "full_name":"Aluno 06",
+        "status":true
     },
     {
-        "student_hash":"31e6a6c5200fb3d0730464b738833127a81b76f35d598a2d3cfd39811f7d392e",
-        "full_name_masked":"Aluno 07",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"31e6a6c5200fb3d0730464b738833127a81b76f35d598a2d3cfd39811f7d392e",
+        "full_name":"Aluno 07",
+        "status":true
     },
     {
-        "student_hash":"ca129b803091a1f84d8e48004d1f8afe45d08e076dedcc5e4905c1d05d590adc",
-        "full_name_masked":"Aluno 08",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"ca129b803091a1f84d8e48004d1f8afe45d08e076dedcc5e4905c1d05d590adc",
+        "full_name":"Aluno 08",
+        "status":true
     },
     {
-        "student_hash":"4f1f96a7e9411a0fc1d99a7a89398a9bbbf1be05346e8d6f7fddd5850f63025c",
-        "full_name_masked":"Aluno 09",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"4f1f96a7e9411a0fc1d99a7a89398a9bbbf1be05346e8d6f7fddd5850f63025c",
+        "full_name":"Aluno 09",
+        "status":true
     },
     {
-        "student_hash":"7b11d745f9296fd2252a182a3d3b9f18befdc762189e64307ab8a412d6c8a7cf",
-        "full_name_masked":"Aluno 10",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"7b11d745f9296fd2252a182a3d3b9f18befdc762189e64307ab8a412d6c8a7cf",
+        "full_name":"Aluno 10",
+        "status":true
     },
     {
-        "student_hash":"123d3c4dc2de3ac1ed6de913044a3a7141c32d5a274867e0a410f67e3cff831a",
-        "full_name_masked":"Aluno 11",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"123d3c4dc2de3ac1ed6de913044a3a7141c32d5a274867e0a410f67e3cff831a",
+        "full_name":"Aluno 11",
+        "status":true
     },
     {
-        "student_hash":"b2249cac07bfc0f9702a6e47ea8baed88a5864539d69df76b79c009170d66d54",
-        "full_name_masked":"Aluno 12",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"b2249cac07bfc0f9702a6e47ea8baed88a5864539d69df76b79c009170d66d54",
+        "full_name":"Aluno 12",
+        "status":true
     },
     {
-        "student_hash":"49918c612f1e2501ee0e3b199f5e6c7bc85c923c9e25ec38cabb4fbbf4a6acf8",
-        "full_name_masked":"Aluno 13",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"49918c612f1e2501ee0e3b199f5e6c7bc85c923c9e25ec38cabb4fbbf4a6acf8",
+        "full_name":"Aluno 13",
+        "status":true
     },
     {
-        "student_hash":"e96431a36f27d27b289e290ee089cd41a87bc01536e1936617adea2d28b46309",
-        "full_name_masked":"Aluno 14",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"e96431a36f27d27b289e290ee089cd41a87bc01536e1936617adea2d28b46309",
+        "full_name":"Aluno 14",
+        "status":true
     },
     {
-        "student_hash":"54d2aa98bda019017ac78e364300a67ae1c045692bc2cbec7160e56d5daf19aa",
-        "full_name_masked":"Aluno 15",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"54d2aa98bda019017ac78e364300a67ae1c045692bc2cbec7160e56d5daf19aa",
+        "full_name":"Aluno 15",
+        "status":true
     },
     {
-        "student_hash":"aebce9e1121ef68de3d35a7f38102d3877afe60bfc4e3301cdb18169c06147f0",
-        "full_name_masked":"Aluno 16",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"aebce9e1121ef68de3d35a7f38102d3877afe60bfc4e3301cdb18169c06147f0",
+        "full_name":"Aluno 16",
+        "status":true
     },
     {
-        "student_hash":"01a5298b444ec54f86f252afffd0dce644b00e35ffd4016879c5e96fd7c0e8c7",
-        "full_name_masked":"Aluno 17",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"01a5298b444ec54f86f252afffd0dce644b00e35ffd4016879c5e96fd7c0e8c7",
+        "full_name":"Aluno 17",
+        "status":true
     },
     {
-        "student_hash":"7578a51670ea0b68b67f2c7d4629185658927276786bb3fbae166beaf3ee1f20",
-        "full_name_masked":"Aluno 18",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"7578a51670ea0b68b67f2c7d4629185658927276786bb3fbae166beaf3ee1f20",
+        "full_name":"Aluno 18",
+        "status":true
     },
     {
-        "student_hash":"2e3262bcf1bdfbc67cf54a5a98d0cf60d4024c7d1946c26726fda1804cd82d4e",
-        "full_name_masked":"Aluno 19",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"2e3262bcf1bdfbc67cf54a5a98d0cf60d4024c7d1946c26726fda1804cd82d4e",
+        "full_name":"Aluno 19",
+        "status":true
     },
     {
-        "student_hash":"e636b79f6acd4895666512b2de438070e48311968380c766ef39bf1e7b05e66e",
-        "full_name_masked":"Aluno 20",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"e636b79f6acd4895666512b2de438070e48311968380c766ef39bf1e7b05e66e",
+        "full_name":"Aluno 20",
+        "status":true
     },
     {
-        "student_hash":"db3d50a582cc59cb4f5ba5157ca2e5108a67381e92785c3f09bd001498bf8c7f",
-        "full_name_masked":"Aluno 21",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"db3d50a582cc59cb4f5ba5157ca2e5108a67381e92785c3f09bd001498bf8c7f",
+        "full_name":"Aluno 21",
+        "status":true
     },
     {
-        "student_hash":"37c1351e4e75219e79a75358f1d132931df82dfd0f831f5d9fa7de5a4e62492a",
-        "full_name_masked":"Aluno 22",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"37c1351e4e75219e79a75358f1d132931df82dfd0f831f5d9fa7de5a4e62492a",
+        "full_name":"Aluno 22",
+        "status":true
     },
     {
-        "student_hash":"67635a99297b386a679b162b04c3725914c4a511a35bac686777b50dd048e6c1",
-        "full_name_masked":"Aluno 23",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"67635a99297b386a679b162b04c3725914c4a511a35bac686777b50dd048e6c1",
+        "full_name":"Aluno 23",
+        "status":true
     },
     {
-        "student_hash":"0d27eacfb430ff812c5f4085f4287657dbb92abd9eba56bc80135517c59a3748",
-        "full_name_masked":"Aluno 24",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"0d27eacfb430ff812c5f4085f4287657dbb92abd9eba56bc80135517c59a3748",
+        "full_name":"Aluno 24",
+        "status":true
     },
     {
-        "student_hash":"85ab9d2e8dfe4b2fa8e8ec1efad1925cef09fbbac2e59bf99d8ec99c1a4bd5eb",
-        "full_name_masked":"Aluno 25",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"85ab9d2e8dfe4b2fa8e8ec1efad1925cef09fbbac2e59bf99d8ec99c1a4bd5eb",
+        "full_name":"Aluno 25",
+        "status":true
     },
     {
-        "student_hash":"94f90e69a30367871347ada5252cca2c81b2bdf6773daaf6bcfb9ecccacba13e",
-        "full_name_masked":"Aluno 26",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"94f90e69a30367871347ada5252cca2c81b2bdf6773daaf6bcfb9ecccacba13e",
+        "full_name":"Aluno 26",
+        "status":true
     },
     {
-        "student_hash":"f5084f4fccf450adaffe3f6a2f9697adfc31718fd57e099b1d5b2794d3ae82b0",
-        "full_name_masked":"Aluno 27",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"f5084f4fccf450adaffe3f6a2f9697adfc31718fd57e099b1d5b2794d3ae82b0",
+        "full_name":"Aluno 27",
+        "status":true
     },
     {
-        "student_hash":"302cd840e42546a157fb2419c98bff29bb57a5a2b2173f4f954cb52b7526cdbb",
-        "full_name_masked":"Aluno 28",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"302cd840e42546a157fb2419c98bff29bb57a5a2b2173f4f954cb52b7526cdbb",
+        "full_name":"Aluno 28",
+        "status":true
     },
     {
-        "student_hash":"9ba3849b296e2551850ca5cfdfae97bc2aa0f36f0c9386ec8d101238c1de9037",
-        "full_name_masked":"Aluno 29",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"9ba3849b296e2551850ca5cfdfae97bc2aa0f36f0c9386ec8d101238c1de9037",
+        "full_name":"Aluno 29",
+        "status":true
     },
     {
-        "student_hash":"8506619860f803420e03fb09d0db5a3cd651a532099426c58e166c2c63015c51",
-        "full_name_masked":"Aluno 30",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"8506619860f803420e03fb09d0db5a3cd651a532099426c58e166c2c63015c51",
+        "full_name":"Aluno 30",
+        "status":true
     },
     {
-        "student_hash":"28bcb6365f5c689e34c2e6d8db71d129dd6819213306246a9ccf9bdfdb23efd7",
-        "full_name_masked":"Aluno 31",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"28bcb6365f5c689e34c2e6d8db71d129dd6819213306246a9ccf9bdfdb23efd7",
+        "full_name":"Aluno 31",
+        "status":true
     },
     {
-        "student_hash":"bcc9ccdcfc943d35938df06c77ac92e4f9c9143c96049f6c8e4245e5328c5a53",
-        "full_name_masked":"Aluno 32",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"bcc9ccdcfc943d35938df06c77ac92e4f9c9143c96049f6c8e4245e5328c5a53",
+        "full_name":"Aluno 32",
+        "status":true
     },
     {
-        "student_hash":"a2b186438b9e96f5d8c419a4056e478a039607d83c7ecc4d06afb3bc1022df8d",
-        "full_name_masked":"Aluno 33",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"a2b186438b9e96f5d8c419a4056e478a039607d83c7ecc4d06afb3bc1022df8d",
+        "full_name":"Aluno 33",
+        "status":true
     },
     {
-        "student_hash":"810537634a854ced38c2ae75cc385dc87e8ea878632b0a6da234d870ffa08b84",
-        "full_name_masked":"Aluno 34",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"810537634a854ced38c2ae75cc385dc87e8ea878632b0a6da234d870ffa08b84",
+        "full_name":"Aluno 34",
+        "status":true
     },
     {
-        "student_hash":"7364079c2a181b4a66fe49752c713ab7be0de1977ba7f69296ef0f58279248a1",
-        "full_name_masked":"Aluno 35",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"7364079c2a181b4a66fe49752c713ab7be0de1977ba7f69296ef0f58279248a1",
+        "full_name":"Aluno 35",
+        "status":true
     },
     {
-        "student_hash":"24c0b21e8b33b27cebf6dd5d3a3c45b5564f4451b2cca1ceb7584fe4ae85ac6d",
-        "full_name_masked":"Aluno 36",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"24c0b21e8b33b27cebf6dd5d3a3c45b5564f4451b2cca1ceb7584fe4ae85ac6d",
+        "full_name":"Aluno 36",
+        "status":true
     },
     {
-        "student_hash":"420db3cee5aeb367b34e2c468f3149ab26daaed2e5bfde3cd712e1f89f57dff3",
-        "full_name_masked":"Aluno 37",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"420db3cee5aeb367b34e2c468f3149ab26daaed2e5bfde3cd712e1f89f57dff3",
+        "full_name":"Aluno 37",
+        "status":true
     },
     {
-        "student_hash":"c1915ebefe90d8a1a7a0663e1cc57bca1778cbbd031c447732da263be4702e6b",
-        "full_name_masked":"Aluno 38",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"c1915ebefe90d8a1a7a0663e1cc57bca1778cbbd031c447732da263be4702e6b",
+        "full_name":"Aluno 38",
+        "status":true
     },
     {
-        "student_hash":"333b84875046951886d4c3a5bd9badbfa420da640248f65284223a659d33cad2",
-        "full_name_masked":"Aluno 39",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"333b84875046951886d4c3a5bd9badbfa420da640248f65284223a659d33cad2",
+        "full_name":"Aluno 39",
+        "status":true
     },
     {
-        "student_hash":"1a47b086e33e9de67ef0ab6e7981e7276a0ce0bfccec1e90d68eea863ef7dcf1",
-        "full_name_masked":"Aluno 40",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"1a47b086e33e9de67ef0ab6e7981e7276a0ce0bfccec1e90d68eea863ef7dcf1",
+        "full_name":"Aluno 40",
+        "status":true
     },
     {
-        "student_hash":"d401e0d7d86b0c6c15a71029ecbf58c974b595327b17ee207dd2726d8ac22656",
-        "full_name_masked":"Aluno 41",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"d401e0d7d86b0c6c15a71029ecbf58c974b595327b17ee207dd2726d8ac22656",
+        "full_name":"Aluno 41",
+        "status":true
     },
     {
-        "student_hash":"17fd17a50bb9cc8e62a399d8e31c75e02ecb09fd208ba8c4ee0a2d91232606ae",
-        "full_name_masked":"Aluno 42",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"17fd17a50bb9cc8e62a399d8e31c75e02ecb09fd208ba8c4ee0a2d91232606ae",
+        "full_name":"Aluno 42",
+        "status":true
     },
     {
-        "student_hash":"2d2d0ef569f17ecb637c532695096a8034c2e33a9af67030d551648d47056090",
-        "full_name_masked":"Aluno 43",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"2d2d0ef569f17ecb637c532695096a8034c2e33a9af67030d551648d47056090",
+        "full_name":"Aluno 43",
+        "status":true
     },
     {
-        "student_hash":"05f6491dc4a3f270321e522bdd2ad1745f73ad1bf004c055cf8063e58bdded9c",
-        "full_name_masked":"Aluno 44",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"05f6491dc4a3f270321e522bdd2ad1745f73ad1bf004c055cf8063e58bdded9c",
+        "full_name":"Aluno 44",
+        "status":true
     },
     {
-        "student_hash":"068907c53d87184d70fbe82a865c012f96b31844ba616969d6a44a9cb1bf0073",
-        "full_name_masked":"Aluno 45",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"068907c53d87184d70fbe82a865c012f96b31844ba616969d6a44a9cb1bf0073",
+        "full_name":"Aluno 45",
+        "status":true
     },
     {
-        "student_hash":"e65a0aa12a23eb640b8d2f4074766c79b47d6b2aebe7f465bede52dfd12336a2",
-        "full_name_masked":"Aluno 46",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"e65a0aa12a23eb640b8d2f4074766c79b47d6b2aebe7f465bede52dfd12336a2",
+        "full_name":"Aluno 46",
+        "status":true
     },
     {
-        "student_hash":"f9310b1fae31a61fb8023a7d8f1e2f2cd7db83a6b0faaa43cd5c01b122e3d488",
-        "full_name_masked":"Aluno 47",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"f9310b1fae31a61fb8023a7d8f1e2f2cd7db83a6b0faaa43cd5c01b122e3d488",
+        "full_name":"Aluno 47",
+        "status":true
     },
     {
-        "student_hash":"49a5dca6950b9f8aa04109371ce4111f3dbd21d186b79e6e559c61d606ac954f",
-        "full_name_masked":"Aluno 48",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"49a5dca6950b9f8aa04109371ce4111f3dbd21d186b79e6e559c61d606ac954f",
+        "full_name":"Aluno 48",
+        "status":true
     },
     {
-        "student_hash":"444505bfffd42e596818004fa0b3acf61b56b8f68d7506eface5ed12d56680fa",
-        "full_name_masked":"Aluno 49",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"444505bfffd42e596818004fa0b3acf61b56b8f68d7506eface5ed12d56680fa",
+        "full_name":"Aluno 49",
+        "status":true
     },
     {
-        "student_hash":"fc0c3c5867cfe93be114d418b57fadf721a32c5892b4ce9ab1055a09d3e9bee1",
-        "full_name_masked":"Aluno 50",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"fc0c3c5867cfe93be114d418b57fadf721a32c5892b4ce9ab1055a09d3e9bee1",
+        "full_name":"Aluno 50",
+        "status":true
     },
     {
-        "student_hash":"d3bce641acbd9ed5338ba90d302b30a668b23d0bb4a816d0fc4f104d95d63f84",
-        "full_name_masked":"Aluno 51",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"d3bce641acbd9ed5338ba90d302b30a668b23d0bb4a816d0fc4f104d95d63f84",
+        "full_name":"Aluno 51",
+        "status":true
     },
     {
-        "student_hash":"4508319d1963915f976fd38cb77e0e5fc2c78d5686eb9c63001ce36c28f09ea5",
-        "full_name_masked":"Aluno 52",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"4508319d1963915f976fd38cb77e0e5fc2c78d5686eb9c63001ce36c28f09ea5",
+        "full_name":"Aluno 52",
+        "status":true
     },
     {
-        "student_hash":"889aabeec00a15639bd08ba99e6b1fb805ff639660625ceeece947dfcdad977f",
-        "full_name_masked":"Aluno 53",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"889aabeec00a15639bd08ba99e6b1fb805ff639660625ceeece947dfcdad977f",
+        "full_name":"Aluno 53",
+        "status":true
     },
     {
-        "student_hash":"9c0fc8dfa778a7725f030fd3bbead6152162725f11938f838bf2b31f931d74b2",
-        "full_name_masked":"Aluno 54",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"9c0fc8dfa778a7725f030fd3bbead6152162725f11938f838bf2b31f931d74b2",
+        "full_name":"Aluno 54",
+        "status":true
     },
     {
-        "student_hash":"f4d19f5b7e9341f5e190f390ad12819995d67e210999798b144fa2620bc9bf94",
-        "full_name_masked":"Aluno 55",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"f4d19f5b7e9341f5e190f390ad12819995d67e210999798b144fa2620bc9bf94",
+        "full_name":"Aluno 55",
+        "status":true
     },
     {
-        "student_hash":"3d6120c37299a3600a1e692a2a18a0daa43450819fd5aa5d2863d96162850190",
-        "full_name_masked":"Aluno 56",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"3d6120c37299a3600a1e692a2a18a0daa43450819fd5aa5d2863d96162850190",
+        "full_name":"Aluno 56",
+        "status":true
     },
     {
-        "student_hash":"4a4c3466d279dee2025727e53ad351261a6cc6d12ce5fa53e0c2ff28e8c4d469",
-        "full_name_masked":"Aluno 57",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"4a4c3466d279dee2025727e53ad351261a6cc6d12ce5fa53e0c2ff28e8c4d469",
+        "full_name":"Aluno 57",
+        "status":true
     },
     {
-        "student_hash":"bd5f7f8eac7c6ec5c7c35687272ff1a4204302ecabd8ca2e6ee204fffd74995f",
-        "full_name_masked":"Aluno 58",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"bd5f7f8eac7c6ec5c7c35687272ff1a4204302ecabd8ca2e6ee204fffd74995f",
+        "full_name":"Aluno 58",
+        "status":true
     },
     {
-        "student_hash":"36d54e450d75a393c49f123c1a0b1ad6e6f47862b5fbb998b8d4db47423d3ed8",
-        "full_name_masked":"Aluno 59",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"36d54e450d75a393c49f123c1a0b1ad6e6f47862b5fbb998b8d4db47423d3ed8",
+        "full_name":"Aluno 59",
+        "status":true
     },
     {
-        "student_hash":"513e07c39200ccec227a77f80709058677639bb533b1d67d749ad7f5d2f5dcda",
-        "full_name_masked":"Aluno 60",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"513e07c39200ccec227a77f80709058677639bb533b1d67d749ad7f5d2f5dcda",
+        "full_name":"Aluno 60",
+        "status":true
     },
     {
-        "student_hash":"ec538fbbf6b26a3fa6615f99b1183accdc21ed9a5d51943d5f39eacce1bdd30f",
-        "full_name_masked":"Aluno 61",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"ec538fbbf6b26a3fa6615f99b1183accdc21ed9a5d51943d5f39eacce1bdd30f",
+        "full_name":"Aluno 61",
+        "status":true
     },
     {
-        "student_hash":"5f4db29f2ab401fe1b754f0741cfb04df37e36d9c14520533edc60d289caba32",
-        "full_name_masked":"Aluno 62",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"5f4db29f2ab401fe1b754f0741cfb04df37e36d9c14520533edc60d289caba32",
+        "full_name":"Aluno 62",
+        "status":true
     },
     {
-        "student_hash":"e45a0b1b39fea0519cf8fb7c2d34b7b7c31e3b42298ccbfeab9b8a250fda3063",
-        "full_name_masked":"Aluno 63",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"e45a0b1b39fea0519cf8fb7c2d34b7b7c31e3b42298ccbfeab9b8a250fda3063",
+        "full_name":"Aluno 63",
+        "status":true
     },
     {
-        "student_hash":"2414dea088f3ba4a5e744c4d75d7f1e717eb76daa61a446eabc8b1dac5df774c",
-        "full_name_masked":"Aluno 64",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"2414dea088f3ba4a5e744c4d75d7f1e717eb76daa61a446eabc8b1dac5df774c",
+        "full_name":"Aluno 64",
+        "status":true
     },
     {
-        "student_hash":"0f7546b06d2b716ece4af6525e9a4f1566c0145674dedaaa1a246a1385f5afaf",
-        "full_name_masked":"Aluno 65",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"0f7546b06d2b716ece4af6525e9a4f1566c0145674dedaaa1a246a1385f5afaf",
+        "full_name":"Aluno 65",
+        "status":true
     },
     {
-        "student_hash":"c97f0620d1024fafb5909b8fa1864da47be01878b5da13e8bff8776dd96561ba",
-        "full_name_masked":"Aluno 66",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"c97f0620d1024fafb5909b8fa1864da47be01878b5da13e8bff8776dd96561ba",
+        "full_name":"Aluno 66",
+        "status":true
     },
     {
-        "student_hash":"e2d4743bf4efd360b48ce1b466ba1fb9f1a72276589350ae235c99cc1a851436",
-        "full_name_masked":"Aluno 67",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"e2d4743bf4efd360b48ce1b466ba1fb9f1a72276589350ae235c99cc1a851436",
+        "full_name":"Aluno 67",
+        "status":true
     },
     {
-        "student_hash":"7adf75ea3a6382634681506ea0e41eda990c3216b37184d47344795a996efc95",
-        "full_name_masked":"Aluno 68",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"7adf75ea3a6382634681506ea0e41eda990c3216b37184d47344795a996efc95",
+        "full_name":"Aluno 68",
+        "status":true
     },
     {
-        "student_hash":"d6def0b59e5b6cf3c010727b4c838d765f7aa45eed62f16c9ec118bdf1345647",
-        "full_name_masked":"Aluno 69",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"d6def0b59e5b6cf3c010727b4c838d765f7aa45eed62f16c9ec118bdf1345647",
+        "full_name":"Aluno 69",
+        "status":true
     },
     {
-        "student_hash":"0c2f827555e07781f0f9f6bb87003238602c21af0ec9a54eb9fbb0f80b9bddf7",
-        "full_name_masked":"Aluno 70",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"0c2f827555e07781f0f9f6bb87003238602c21af0ec9a54eb9fbb0f80b9bddf7",
+        "full_name":"Aluno 70",
+        "status":true
     },
     {
-        "student_hash":"a221aa8991ec5f46516825ea472b468a1845c90280dec592e1b3fc100e1ecb39",
-        "full_name_masked":"Aluno 71",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"a221aa8991ec5f46516825ea472b468a1845c90280dec592e1b3fc100e1ecb39",
+        "full_name":"Aluno 71",
+        "status":true
     },
     {
-        "student_hash":"daab75ba3d174239948c31c43ba2503838d8670f6a75d956165a644d7b158d24",
-        "full_name_masked":"Aluno 72",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"daab75ba3d174239948c31c43ba2503838d8670f6a75d956165a644d7b158d24",
+        "full_name":"Aluno 72",
+        "status":true
     },
     {
-        "student_hash":"20f6d3e4bd4d355bf95e11da5ccc40bfab1efbbb9e2e552b0da9876316be7ae9",
-        "full_name_masked":"Aluno 73",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"20f6d3e4bd4d355bf95e11da5ccc40bfab1efbbb9e2e552b0da9876316be7ae9",
+        "full_name":"Aluno 73",
+        "status":true
     },
     {
-        "student_hash":"d7ef663363472e7fc7d7594976af3bfb0a051f2ef8e584b1384f7dd859195575",
-        "full_name_masked":"Aluno 74",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"d7ef663363472e7fc7d7594976af3bfb0a051f2ef8e584b1384f7dd859195575",
+        "full_name":"Aluno 74",
+        "status":true
     },
     {
-        "student_hash":"71f47ed332435a2037c48453d5264a1a6726428f56cf333abb56fb60cdee120a",
-        "full_name_masked":"Aluno 75",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"71f47ed332435a2037c48453d5264a1a6726428f56cf333abb56fb60cdee120a",
+        "full_name":"Aluno 75",
+        "status":true
     },
     {
-        "student_hash":"5b9685cc11579e7f83eff74fd67be46b053303594a11dabbfa5236e614ca14d6",
-        "full_name_masked":"Aluno 76",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"5b9685cc11579e7f83eff74fd67be46b053303594a11dabbfa5236e614ca14d6",
+        "full_name":"Aluno 76",
+        "status":true
     },
     {
-        "student_hash":"197cccec4174dd6a8e5ac60b493a1d2e1c852fe51fd8d5d8f9fd61e63a613e56",
-        "full_name_masked":"Aluno 77",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"197cccec4174dd6a8e5ac60b493a1d2e1c852fe51fd8d5d8f9fd61e63a613e56",
+        "full_name":"Aluno 77",
+        "status":true
     },
     {
-        "student_hash":"4178d9afd7281c7eb5526112c6b30460788e8bfd64b3d4b6cab11b01b9b9a581",
-        "full_name_masked":"Aluno 78",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"4178d9afd7281c7eb5526112c6b30460788e8bfd64b3d4b6cab11b01b9b9a581",
+        "full_name":"Aluno 78",
+        "status":true
     },
     {
-        "student_hash":"481d628d4d7d0c733d529de33acd3e1bece48ce78bdb581bc9b485f9acf562ff",
-        "full_name_masked":"Aluno 79",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"481d628d4d7d0c733d529de33acd3e1bece48ce78bdb581bc9b485f9acf562ff",
+        "full_name":"Aluno 79",
+        "status":true
     },
     {
-        "student_hash":"69ffbd62449fe6260b715834577fd40b397f9d03f239ddb3e688946fb989c773",
-        "full_name_masked":"Aluno 80",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"69ffbd62449fe6260b715834577fd40b397f9d03f239ddb3e688946fb989c773",
+        "full_name":"Aluno 80",
+        "status":true
     },
     {
-        "student_hash":"5306fe2f5b1f319eb7c2f1d1d10ee272858ea6200af6a9ca2ba1f8e7c15b3734",
-        "full_name_masked":"Aluno 81",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"5306fe2f5b1f319eb7c2f1d1d10ee272858ea6200af6a9ca2ba1f8e7c15b3734",
+        "full_name":"Aluno 81",
+        "status":true
     },
     {
-        "student_hash":"999f446d7ea802839ce2ef69b0841bdfb6d57211c5b41960cfadf2114f74d3a5",
-        "full_name_masked":"Aluno 82",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"999f446d7ea802839ce2ef69b0841bdfb6d57211c5b41960cfadf2114f74d3a5",
+        "full_name":"Aluno 82",
+        "status":true
     },
     {
-        "student_hash":"6558c763cafcd633b869acece9107eace8387e83ffddc93964c33cb0ead6a0a2",
-        "full_name_masked":"Aluno 83",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"6558c763cafcd633b869acece9107eace8387e83ffddc93964c33cb0ead6a0a2",
+        "full_name":"Aluno 83",
+        "status":true
     },
     {
-        "student_hash":"d4e2627c104f7d996b0b705dd57e99a0174cbdd061d038cc9a667ca4543206ed",
-        "full_name_masked":"Aluno 84",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"d4e2627c104f7d996b0b705dd57e99a0174cbdd061d038cc9a667ca4543206ed",
+        "full_name":"Aluno 84",
+        "status":true
     },
     {
-        "student_hash":"5ebb6ba883d7a8baac93f08a47f0bd904b2fd9abcfb79c6307ca640e71dbfe76",
-        "full_name_masked":"Aluno 85",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"5ebb6ba883d7a8baac93f08a47f0bd904b2fd9abcfb79c6307ca640e71dbfe76",
+        "full_name":"Aluno 85",
+        "status":true
     },
     {
-        "student_hash":"4d0579bb51369db9181aa8b7b6ecd1de4613212c6d82b9d856c71e8807985e90",
-        "full_name_masked":"Aluno 86",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"4d0579bb51369db9181aa8b7b6ecd1de4613212c6d82b9d856c71e8807985e90",
+        "full_name":"Aluno 86",
+        "status":true
     },
     {
-        "student_hash":"643cf06bd80d20c52078ba22daf2dfff784e3c0b96f300d379be5e7b1b4d55c4",
-        "full_name_masked":"Aluno 87",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"643cf06bd80d20c52078ba22daf2dfff784e3c0b96f300d379be5e7b1b4d55c4",
+        "full_name":"Aluno 87",
+        "status":true
     },
     {
-        "student_hash":"d5c238a13948d9bd18ce1697e7b5e992198c1911493c8fca1953eadb662526c1",
-        "full_name_masked":"Aluno 88",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"d5c238a13948d9bd18ce1697e7b5e992198c1911493c8fca1953eadb662526c1",
+        "full_name":"Aluno 88",
+        "status":true
     },
     {
-        "student_hash":"c94a77f776a02e718f2ee0bca0dcef5fde4cc31bf2a0a084407321bf635ad54b",
-        "full_name_masked":"Aluno 89",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"c94a77f776a02e718f2ee0bca0dcef5fde4cc31bf2a0a084407321bf635ad54b",
+        "full_name":"Aluno 89",
+        "status":true
     },
     {
-        "student_hash":"176857f524a848450bfde22fb1d15bc968e4a1b157410832d22eac319f78d07b",
-        "full_name_masked":"Aluno 90",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"176857f524a848450bfde22fb1d15bc968e4a1b157410832d22eac319f78d07b",
+        "full_name":"Aluno 90",
+        "status":true
     },
     {
-        "student_hash":"21f07e383af9aac639fdd93b22a36836303107ade85b05faa545d09499a41291",
-        "full_name_masked":"Aluno 91",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"21f07e383af9aac639fdd93b22a36836303107ade85b05faa545d09499a41291",
+        "full_name":"Aluno 91",
+        "status":true
     },
     {
-        "student_hash":"30ac3e085cc4eb93d132287919f94598622f2a8f70645dd462f9befdf039cce7",
-        "full_name_masked":"Aluno 92",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"30ac3e085cc4eb93d132287919f94598622f2a8f70645dd462f9befdf039cce7",
+        "full_name":"Aluno 92",
+        "status":true
     },
     {
-        "student_hash":"5c30d01ce71d560796c3e4fdee3bcaa259b84caa4b7e8cc0a19c2cb2136ad67a",
-        "full_name_masked":"Aluno 93",
-        "role":"student",
-        "is_deactivated":true
+        "student_id":"5c30d01ce71d560796c3e4fdee3bcaa259b84caa4b7e8cc0a19c2cb2136ad67a",
+        "full_name":"Aluno 93",
+        "status":true
     },
     {
-        "student_hash":"3f94da659725b92a66eff7d2bcfad15a4357ec2f3ac293894530d58adab67481",
-        "full_name_masked":"Aluno 94",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"3f94da659725b92a66eff7d2bcfad15a4357ec2f3ac293894530d58adab67481",
+        "full_name":"Aluno 94",
+        "status":false
     },
     {
-        "student_hash":"4a9e561fd70663fa5094969c26f70b6682f0767f57fb1240c60eba2876802bfe",
-        "full_name_masked":"Aluno 95",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"4a9e561fd70663fa5094969c26f70b6682f0767f57fb1240c60eba2876802bfe",
+        "full_name":"Aluno 95",
+        "status":false
     },
     {
-        "student_hash":"578e2198f8eadd519b95e9690e7628635d4f6257699498691fc03d52769c55e6",
-        "full_name_masked":"Aluno 96",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"578e2198f8eadd519b95e9690e7628635d4f6257699498691fc03d52769c55e6",
+        "full_name":"Aluno 96",
+        "status":false
     },
     {
-        "student_hash":"ddf0200cb8bbec61c6f17c5d4e404b3974e45fd85a0b63aede05ceea584e6fd0",
-        "full_name_masked":"Aluno 97",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"ddf0200cb8bbec61c6f17c5d4e404b3974e45fd85a0b63aede05ceea584e6fd0",
+        "full_name":"Aluno 97",
+        "status":false
     },
     {
-        "student_hash":"468b3950fcf4117a60d040ae1d9ad1ffd92c8371b7d4b9c518daae19d263ca2c",
-        "full_name_masked":"Aluno 98",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"468b3950fcf4117a60d040ae1d9ad1ffd92c8371b7d4b9c518daae19d263ca2c",
+        "full_name":"Aluno 98",
+        "status":false
     },
     {
-        "student_hash":"124d5a87db7bf52359adcd5e44713d6b346cca63a51ffea60ea2a74477421590",
-        "full_name_masked":"Aluno 99",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"124d5a87db7bf52359adcd5e44713d6b346cca63a51ffea60ea2a74477421590",
+        "full_name":"Aluno 99",
+        "status":false
     },
     {
-        "student_hash":"453ff2fb0a2382c9845f2c4b02215a31e7864c718db44fa5eb9a93f267adb910",
-        "full_name_masked":"Aluno 100",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"453ff2fb0a2382c9845f2c4b02215a31e7864c718db44fa5eb9a93f267adb910",
+        "full_name":"Aluno 100",
+        "status":false
     },
     {
-        "student_hash":"1e34ab9cb25ad5452df3db74370e8e4428d71ab6c6e692f01e899900582e68e9",
-        "full_name_masked":"Aluno 101",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"1e34ab9cb25ad5452df3db74370e8e4428d71ab6c6e692f01e899900582e68e9",
+        "full_name":"Aluno 101",
+        "status":false
     },
     {
-        "student_hash":"64ead2c8d2fce25e8062bb6acffe258f060ae89fe27e7766cd9bbd14b6e2b81d",
-        "full_name_masked":"Aluno 102",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"64ead2c8d2fce25e8062bb6acffe258f060ae89fe27e7766cd9bbd14b6e2b81d",
+        "full_name":"Aluno 102",
+        "status":false
     },
     {
-        "student_hash":"6664aa5215520db7b2cb048e54100947de65346053c1ee489703271a4f5827b0",
-        "full_name_masked":"Aluno 103",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"6664aa5215520db7b2cb048e54100947de65346053c1ee489703271a4f5827b0",
+        "full_name":"Aluno 103",
+        "status":false
     },
     {
-        "student_hash":"1811040a41ab655df6e2dddb3ab7cc71e5ffab15f3a7ee5ed951f19f4cb7a740",
-        "full_name_masked":"Aluno 104",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"1811040a41ab655df6e2dddb3ab7cc71e5ffab15f3a7ee5ed951f19f4cb7a740",
+        "full_name":"Aluno 104",
+        "status":false
     },
     {
-        "student_hash":"c75ad4c8c785c702e4f5a2dc1bccd75d740d5b81d259071eacb342ae9e8fa0ce",
-        "full_name_masked":"Aluno 105",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"c75ad4c8c785c702e4f5a2dc1bccd75d740d5b81d259071eacb342ae9e8fa0ce",
+        "full_name":"Aluno 105",
+        "status":false
     },
     {
-        "student_hash":"32899e5c565ceca75b894b86ac880c2a0a1a09b6d56790912868e042d4e89c83",
-        "full_name_masked":"Aluno 106",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"32899e5c565ceca75b894b86ac880c2a0a1a09b6d56790912868e042d4e89c83",
+        "full_name":"Aluno 106",
+        "status":false
     },
     {
-        "student_hash":"9be4afa1983987bc908ee1e7337d8fd1e638363dde9564588972f1a1fbd49039",
-        "full_name_masked":"Aluno 107",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9be4afa1983987bc908ee1e7337d8fd1e638363dde9564588972f1a1fbd49039",
+        "full_name":"Aluno 107",
+        "status":false
     },
     {
-        "student_hash":"d7f8978dce49f9e57748473f9bcac648c58429b18669566f05048aaf91f8ff4e",
-        "full_name_masked":"Aluno 108",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"d7f8978dce49f9e57748473f9bcac648c58429b18669566f05048aaf91f8ff4e",
+        "full_name":"Aluno 108",
+        "status":false
     },
     {
-        "student_hash":"e1988fd615c37dd2ec795a04447f131a85e18273c4a7de695889d58843454255",
-        "full_name_masked":"Aluno 109",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"e1988fd615c37dd2ec795a04447f131a85e18273c4a7de695889d58843454255",
+        "full_name":"Aluno 109",
+        "status":false
     },
     {
-        "student_hash":"a554f25559da7ec94e9bf4dc423ad40cfb60bf9b24ce720c0f2a0e1edf2f7519",
-        "full_name_masked":"Aluno 110",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"a554f25559da7ec94e9bf4dc423ad40cfb60bf9b24ce720c0f2a0e1edf2f7519",
+        "full_name":"Aluno 110",
+        "status":false
     },
     {
-        "student_hash":"030ee3d24d2efdac64fa457c1e3f7abdaadca98506502506b440d76e1c5d17b3",
-        "full_name_masked":"Aluno 111",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"030ee3d24d2efdac64fa457c1e3f7abdaadca98506502506b440d76e1c5d17b3",
+        "full_name":"Aluno 111",
+        "status":false
     },
     {
-        "student_hash":"9c3330740f0ef4f735d7390a56a238f0e878dfc0321fec8faf7953c902fa38c4",
-        "full_name_masked":"Aluno 112",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9c3330740f0ef4f735d7390a56a238f0e878dfc0321fec8faf7953c902fa38c4",
+        "full_name":"Aluno 112",
+        "status":false
     },
     {
-        "student_hash":"78a9d23113383db42cd585d8381d726ad9463d50f81a6b9afad8a4cf159c733d",
-        "full_name_masked":"Aluno 113",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"78a9d23113383db42cd585d8381d726ad9463d50f81a6b9afad8a4cf159c733d",
+        "full_name":"Aluno 113",
+        "status":false
     },
     {
-        "student_hash":"8f5ba75b5bf2792e8d9a54ddbc80d7f831238120a6297527e245349c360e4c9b",
-        "full_name_masked":"Aluno 114",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"8f5ba75b5bf2792e8d9a54ddbc80d7f831238120a6297527e245349c360e4c9b",
+        "full_name":"Aluno 114",
+        "status":false
     },
     {
-        "student_hash":"88ae8640ed39964520dd93a8d8dc8e28f1564ce9a028cc4a82fbe22cc8ccbdbc",
-        "full_name_masked":"Aluno 115",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"88ae8640ed39964520dd93a8d8dc8e28f1564ce9a028cc4a82fbe22cc8ccbdbc",
+        "full_name":"Aluno 115",
+        "status":false
     },
     {
-        "student_hash":"717ca241a419595880cb4e1d08b80e0d4498b14d51a7391d8b5729e194a1b4b5",
-        "full_name_masked":"Aluno 116",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"717ca241a419595880cb4e1d08b80e0d4498b14d51a7391d8b5729e194a1b4b5",
+        "full_name":"Aluno 116",
+        "status":false
     },
     {
-        "student_hash":"491ce7a91d960a955cf2efb5ff12023463e184f5545497cfabc77523b46ab689",
-        "full_name_masked":"Aluno 117",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"491ce7a91d960a955cf2efb5ff12023463e184f5545497cfabc77523b46ab689",
+        "full_name":"Aluno 117",
+        "status":false
     },
     {
-        "student_hash":"6d9e6a899735226ffa5d0da82a91bceaa258a1724fd54516a72d801b697bf96b",
-        "full_name_masked":"Aluno 118",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"6d9e6a899735226ffa5d0da82a91bceaa258a1724fd54516a72d801b697bf96b",
+        "full_name":"Aluno 118",
+        "status":false
     },
     {
-        "student_hash":"e870c2602f5b66a80e1d3564c77698181619d845cabbd4aab97cba5f86774ed7",
-        "full_name_masked":"Aluno 119",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"e870c2602f5b66a80e1d3564c77698181619d845cabbd4aab97cba5f86774ed7",
+        "full_name":"Aluno 119",
+        "status":false
     },
     {
-        "student_hash":"a53b1c4842b9bbb04d5b00f65117e19273bb04a05daab386030afceafa4eda92",
-        "full_name_masked":"Aluno 120",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"a53b1c4842b9bbb04d5b00f65117e19273bb04a05daab386030afceafa4eda92",
+        "full_name":"Aluno 120",
+        "status":false
     },
     {
-        "student_hash":"9abd865be0236a9902ea3f4144bb3d0543fadd6111b4c580ef3b9ba7741795f2",
-        "full_name_masked":"Aluno 121",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9abd865be0236a9902ea3f4144bb3d0543fadd6111b4c580ef3b9ba7741795f2",
+        "full_name":"Aluno 121",
+        "status":false
     },
     {
-        "student_hash":"82b41eb7c658592e2221c0751f2acc144af0427b1f38336e73da1084c8c33580",
-        "full_name_masked":"Aluno 122",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"82b41eb7c658592e2221c0751f2acc144af0427b1f38336e73da1084c8c33580",
+        "full_name":"Aluno 122",
+        "status":false
     },
     {
-        "student_hash":"9c930b328c6d49c6eedda0e3847b40332a7fc554e0a4076b9b19ba8aba46bec6",
-        "full_name_masked":"Aluno 123",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9c930b328c6d49c6eedda0e3847b40332a7fc554e0a4076b9b19ba8aba46bec6",
+        "full_name":"Aluno 123",
+        "status":false
     },
     {
-        "student_hash":"b1a91840e79766b0728cba3f966d6f3e940f8f771184eb59b94a409b874e6815",
-        "full_name_masked":"Aluno 124",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"b1a91840e79766b0728cba3f966d6f3e940f8f771184eb59b94a409b874e6815",
+        "full_name":"Aluno 124",
+        "status":false
     },
     {
-        "student_hash":"9c48de9e2806a39c81995a7e462544e49fe1b19f2bfb72ea113c90cb19f6bfbd",
-        "full_name_masked":"Aluno 125",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9c48de9e2806a39c81995a7e462544e49fe1b19f2bfb72ea113c90cb19f6bfbd",
+        "full_name":"Aluno 125",
+        "status":false
     },
     {
-        "student_hash":"09869051a58a97255a11ef8e0f4cc7f54995f7b8f2befdcc0fc347d4e15c56db",
-        "full_name_masked":"Aluno 126",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"09869051a58a97255a11ef8e0f4cc7f54995f7b8f2befdcc0fc347d4e15c56db",
+        "full_name":"Aluno 126",
+        "status":false
     },
     {
-        "student_hash":"bd660dfd95dfcb95d053b5c637c24d05ac8c8650b067ddbef0b6a3c7ae9515e8",
-        "full_name_masked":"Aluno 127",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"bd660dfd95dfcb95d053b5c637c24d05ac8c8650b067ddbef0b6a3c7ae9515e8",
+        "full_name":"Aluno 127",
+        "status":false
     },
     {
-        "student_hash":"fdf4e1ba3026b06f707bf07d9caf0f0d151aa3dde7195abc290fa6f42e4a6193",
-        "full_name_masked":"Aluno 128",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"fdf4e1ba3026b06f707bf07d9caf0f0d151aa3dde7195abc290fa6f42e4a6193",
+        "full_name":"Aluno 128",
+        "status":false
     },
     {
-        "student_hash":"a0b77633d0d050d5de16303b9b05cddfab53603a6603642919cfec373ef39c82",
-        "full_name_masked":"Aluno 129",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"a0b77633d0d050d5de16303b9b05cddfab53603a6603642919cfec373ef39c82",
+        "full_name":"Aluno 129",
+        "status":false
     },
     {
-        "student_hash":"a3091771249b193a5faa56698a85868512817a35bfe6039d4a7834cae9baf1a2",
-        "full_name_masked":"Aluno 130",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"a3091771249b193a5faa56698a85868512817a35bfe6039d4a7834cae9baf1a2",
+        "full_name":"Aluno 130",
+        "status":false
     },
     {
-        "student_hash":"5f46fd45486f2356aed139e69cbd61008cd79220339e027fb129cbc31ce93419",
-        "full_name_masked":"Aluno 131",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"5f46fd45486f2356aed139e69cbd61008cd79220339e027fb129cbc31ce93419",
+        "full_name":"Aluno 131",
+        "status":false
     },
     {
-        "student_hash":"bcb51e8e3354b0b26b203e5ec3cd0b43f99deea0011009df5e6aa2178c75dca0",
-        "full_name_masked":"Aluno 132",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"bcb51e8e3354b0b26b203e5ec3cd0b43f99deea0011009df5e6aa2178c75dca0",
+        "full_name":"Aluno 132",
+        "status":false
     },
     {
-        "student_hash":"d7d2abc4696727a40c6381c46538cfa8cc5112aa4c76f39b0c2ca7b1b066f4b7",
-        "full_name_masked":"Aluno 133",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"d7d2abc4696727a40c6381c46538cfa8cc5112aa4c76f39b0c2ca7b1b066f4b7",
+        "full_name":"Aluno 133",
+        "status":false
     },
     {
-        "student_hash":"87b6c75a84263ffd7f04dd9fc81d3c11905ef600ac250d750713bc9e29aa08e0",
-        "full_name_masked":"Aluno 134",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"87b6c75a84263ffd7f04dd9fc81d3c11905ef600ac250d750713bc9e29aa08e0",
+        "full_name":"Aluno 134",
+        "status":false
     },
     {
-        "student_hash":"0a8be98238dad34780c656dcbc36d28e10b6ace439cb09400190ce88faca5663",
-        "full_name_masked":"Aluno 135",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"0a8be98238dad34780c656dcbc36d28e10b6ace439cb09400190ce88faca5663",
+        "full_name":"Aluno 135",
+        "status":false
     },
     {
-        "student_hash":"f7f1224c0ea5163d51234426992ff44851e3821054b3adac503b78fdb798419a",
-        "full_name_masked":"Aluno 136",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"f7f1224c0ea5163d51234426992ff44851e3821054b3adac503b78fdb798419a",
+        "full_name":"Aluno 136",
+        "status":false
     },
     {
-        "student_hash":"5eeface2209649aaf0e90a0859ed7f5ede04f87a01647d5fa067da66af44d2ec",
-        "full_name_masked":"Aluno 137",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"5eeface2209649aaf0e90a0859ed7f5ede04f87a01647d5fa067da66af44d2ec",
+        "full_name":"Aluno 137",
+        "status":false
     },
     {
-        "student_hash":"158e3431e58a42045f83206f62d360fdb275820f50ea214f7201185252e95319",
-        "full_name_masked":"Aluno 138",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"158e3431e58a42045f83206f62d360fdb275820f50ea214f7201185252e95319",
+        "full_name":"Aluno 138",
+        "status":false
     },
     {
-        "student_hash":"5324f97ebd480780adce620492c1c877b3c8d31af488d72e8b1f06530d6a19f3",
-        "full_name_masked":"Aluno 139",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"5324f97ebd480780adce620492c1c877b3c8d31af488d72e8b1f06530d6a19f3",
+        "full_name":"Aluno 139",
+        "status":false
     },
     {
-        "student_hash":"f685a58e1334778f08d061c0241f56f308ed1a294a95ef748ce3b763968a36cc",
-        "full_name_masked":"Aluno 140",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"f685a58e1334778f08d061c0241f56f308ed1a294a95ef748ce3b763968a36cc",
+        "full_name":"Aluno 140",
+        "status":false
     },
     {
-        "student_hash":"38200bd6f90df382c72074007976e337c344bc3cd29757b62df257e48762f8e6",
-        "full_name_masked":"Aluno 141",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"38200bd6f90df382c72074007976e337c344bc3cd29757b62df257e48762f8e6",
+        "full_name":"Aluno 141",
+        "status":false
     },
     {
-        "student_hash":"c4d2cb82cb0155da434733b413cb6a7a9f9563df51682d659ff4fff2dbc1e8a6",
-        "full_name_masked":"Aluno 142",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"c4d2cb82cb0155da434733b413cb6a7a9f9563df51682d659ff4fff2dbc1e8a6",
+        "full_name":"Aluno 142",
+        "status":false
     },
     {
-        "student_hash":"b20822837a689274f04d284b5c28346129d7b4126dce8c01403d95742b7397e7",
-        "full_name_masked":"Aluno 143",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"b20822837a689274f04d284b5c28346129d7b4126dce8c01403d95742b7397e7",
+        "full_name":"Aluno 143",
+        "status":false
     },
     {
-        "student_hash":"937a166d15786b4d03de9649a832fad35925dce1f487c0d581bf5c32839be13a",
-        "full_name_masked":"Aluno 144",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"937a166d15786b4d03de9649a832fad35925dce1f487c0d581bf5c32839be13a",
+        "full_name":"Aluno 144",
+        "status":false
     },
     {
-        "student_hash":"ff308181f2f96fb7d86d1bdf641ef0ed440bd627ea25e0792ca4aa37df019251",
-        "full_name_masked":"Aluno 145",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"ff308181f2f96fb7d86d1bdf641ef0ed440bd627ea25e0792ca4aa37df019251",
+        "full_name":"Aluno 145",
+        "status":false
     },
     {
-        "student_hash":"e111d628590070d089888872206adda11baaace2113e52e47a930381d2234301",
-        "full_name_masked":"Aluno 146",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"e111d628590070d089888872206adda11baaace2113e52e47a930381d2234301",
+        "full_name":"Aluno 146",
+        "status":false
     },
     {
-        "student_hash":"459f8459cf2a8db7923c2ccaa5d254ce65de0c62be7e10e24314fa10414c0ed3",
-        "full_name_masked":"Aluno 147",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"459f8459cf2a8db7923c2ccaa5d254ce65de0c62be7e10e24314fa10414c0ed3",
+        "full_name":"Aluno 147",
+        "status":false
     },
     {
-        "student_hash":"55b0529c297f83f5dd632b9397db65f2e27936ef1b8bfbdc67d222f3ab4d8118",
-        "full_name_masked":"Aluno 148",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"55b0529c297f83f5dd632b9397db65f2e27936ef1b8bfbdc67d222f3ab4d8118",
+        "full_name":"Aluno 148",
+        "status":false
     },
     {
-        "student_hash":"ec7991e6b17b6a4ef303977783dda366aafe3fdc95e8d4dadbce9fa12a0468bd",
-        "full_name_masked":"Aluno 149",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"ec7991e6b17b6a4ef303977783dda366aafe3fdc95e8d4dadbce9fa12a0468bd",
+        "full_name":"Aluno 149",
+        "status":false
     },
     {
-        "student_hash":"820934675a1b5774ec48347356d3a45e16979c2432d89f878fd068b75cd1b441",
-        "full_name_masked":"Aluno 150",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"820934675a1b5774ec48347356d3a45e16979c2432d89f878fd068b75cd1b441",
+        "full_name":"Aluno 150",
+        "status":false
     },
     {
-        "student_hash":"237a16811247284520692eb6b32d68644f6a4c5a61acaea2c4ef3ca62f09bae7",
-        "full_name_masked":"Aluno 151",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"237a16811247284520692eb6b32d68644f6a4c5a61acaea2c4ef3ca62f09bae7",
+        "full_name":"Aluno 151",
+        "status":false
     },
     {
-        "student_hash":"9f76a660defd36d9be013d50c7552f3482150727e1e04863b8c2c4fa9b7227b4",
-        "full_name_masked":"Aluno 152",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9f76a660defd36d9be013d50c7552f3482150727e1e04863b8c2c4fa9b7227b4",
+        "full_name":"Aluno 152",
+        "status":false
     },
     {
-        "student_hash":"09d7cb07b4582265580eb8ae260336640d66770373ee128cbd56f5745340cd2b",
-        "full_name_masked":"Aluno 153",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"09d7cb07b4582265580eb8ae260336640d66770373ee128cbd56f5745340cd2b",
+        "full_name":"Aluno 153",
+        "status":false
     },
     {
-        "student_hash":"ea91ef760f16894df220e22d779434b571fb0fea2e9dd1507cc642f72f8ea7be",
-        "full_name_masked":"Aluno 154",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"ea91ef760f16894df220e22d779434b571fb0fea2e9dd1507cc642f72f8ea7be",
+        "full_name":"Aluno 154",
+        "status":false
     },
     {
-        "student_hash":"dce6ceb2ca02cefdabec94f3471569df899aab1708de87918fb75168e6bfc3cb",
-        "full_name_masked":"Aluno 155",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"dce6ceb2ca02cefdabec94f3471569df899aab1708de87918fb75168e6bfc3cb",
+        "full_name":"Aluno 155",
+        "status":false
     },
     {
-        "student_hash":"3f903330705f04f6096f7edad5d31c615f710c6250a9c4c9d8d58c6d08d7590f",
-        "full_name_masked":"Aluno 156",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"3f903330705f04f6096f7edad5d31c615f710c6250a9c4c9d8d58c6d08d7590f",
+        "full_name":"Aluno 156",
+        "status":false
     },
     {
-        "student_hash":"0219a638cedad1245d5da5b0e79748843c40a343df39db84b9c7540389f73c0b",
-        "full_name_masked":"Aluno 157",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"0219a638cedad1245d5da5b0e79748843c40a343df39db84b9c7540389f73c0b",
+        "full_name":"Aluno 157",
+        "status":false
     },
     {
-        "student_hash":"19bba49dbf5db2fed5729fbaf310c3d4250822a8435e2f2f0ebb126c57237abf",
-        "full_name_masked":"Aluno 158",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"19bba49dbf5db2fed5729fbaf310c3d4250822a8435e2f2f0ebb126c57237abf",
+        "full_name":"Aluno 158",
+        "status":false
     },
     {
-        "student_hash":"f43ffc7e2c3de76c01c127be2dd6d6dc023f5f5a18a366276efc21ce2dde0b98",
-        "full_name_masked":"Aluno 159",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"f43ffc7e2c3de76c01c127be2dd6d6dc023f5f5a18a366276efc21ce2dde0b98",
+        "full_name":"Aluno 159",
+        "status":false
     },
     {
-        "student_hash":"950da5414a6e0dd1c2f1041479b82d906f893b3d5b41511829345113a8af3eda",
-        "full_name_masked":"Aluno 160",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"950da5414a6e0dd1c2f1041479b82d906f893b3d5b41511829345113a8af3eda",
+        "full_name":"Aluno 160",
+        "status":false
     },
     {
-        "student_hash":"b864d8424a9a08f82b241c5f8f862c6f149642676a286224b92ffb97bf974792",
-        "full_name_masked":"Aluno 161",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"b864d8424a9a08f82b241c5f8f862c6f149642676a286224b92ffb97bf974792",
+        "full_name":"Aluno 161",
+        "status":false
     },
     {
-        "student_hash":"6c4b9ea9305df98912ae1543ebc5f521215d9a0cae16bdbef513dd5438d0bdb2",
-        "full_name_masked":"Aluno 162",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"6c4b9ea9305df98912ae1543ebc5f521215d9a0cae16bdbef513dd5438d0bdb2",
+        "full_name":"Aluno 162",
+        "status":false
     },
     {
-        "student_hash":"45e1a986fd997251cb2e98d97a8ec20152d426becc8a98bbce54f799612e7828",
-        "full_name_masked":"Aluno 163",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"45e1a986fd997251cb2e98d97a8ec20152d426becc8a98bbce54f799612e7828",
+        "full_name":"Aluno 163",
+        "status":false
     },
     {
-        "student_hash":"2c8baca1cd0009d9aeffc55c224797966caeaf0a51f9e927fc788a4e98f2dbcb",
-        "full_name_masked":"Aluno 164",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"2c8baca1cd0009d9aeffc55c224797966caeaf0a51f9e927fc788a4e98f2dbcb",
+        "full_name":"Aluno 164",
+        "status":false
     },
     {
-        "student_hash":"c8d04e5564adc52decbdf6c9728643a5a492d118fbbefc16a7c03e540d3e5bb6",
-        "full_name_masked":"Aluno 165",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"c8d04e5564adc52decbdf6c9728643a5a492d118fbbefc16a7c03e540d3e5bb6",
+        "full_name":"Aluno 165",
+        "status":false
     },
     {
-        "student_hash":"14ba438d762abb803c029b2ac4770327124f54c4d4bc0f0a10d28a27b65a8dc9",
-        "full_name_masked":"Aluno 166",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"14ba438d762abb803c029b2ac4770327124f54c4d4bc0f0a10d28a27b65a8dc9",
+        "full_name":"Aluno 166",
+        "status":false
     },
     {
-        "student_hash":"9bbbc8bf37604c1aaed0f63d01206ed1084676cb0f689f0056a361252031c59d",
-        "full_name_masked":"Aluno 167",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"9bbbc8bf37604c1aaed0f63d01206ed1084676cb0f689f0056a361252031c59d",
+        "full_name":"Aluno 167",
+        "status":false
     },
     {
-        "student_hash":"c9308c8e1263344fab2abdbbfe002b0511eee17f8f2592a34013ed7f41afb0d9",
-        "full_name_masked":"Aluno 168",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"c9308c8e1263344fab2abdbbfe002b0511eee17f8f2592a34013ed7f41afb0d9",
+        "full_name":"Aluno 168",
+        "status":false
     },
     {
-        "student_hash":"0953b1e2a0e8ab90f054842721985058c1c721091ada3bb3aabcb3d6bd4a9455",
-        "full_name_masked":"Aluno 169",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"0953b1e2a0e8ab90f054842721985058c1c721091ada3bb3aabcb3d6bd4a9455",
+        "full_name":"Aluno 169",
+        "status":false
     },
     {
-        "student_hash":"241b0f3432585ed74e19bd776cd14a9ebe961a8f58b22bb141fb82d1ef7b6775",
-        "full_name_masked":"Aluno 170",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"241b0f3432585ed74e19bd776cd14a9ebe961a8f58b22bb141fb82d1ef7b6775",
+        "full_name":"Aluno 170",
+        "status":false
     },
     {
-        "student_hash":"4d70a3f708ba1658c52503bd4d6ce012d99ebffd3305eac33709ad4734e71f38",
-        "full_name_masked":"Aluno 171",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"4d70a3f708ba1658c52503bd4d6ce012d99ebffd3305eac33709ad4734e71f38",
+        "full_name":"Aluno 171",
+        "status":false
     },
     {
-        "student_hash":"7f15400f3afdf7d78a6340fc0bba52dc88e3972fb06769dce54ba8489e9b7b73",
-        "full_name_masked":"Aluno 172",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"7f15400f3afdf7d78a6340fc0bba52dc88e3972fb06769dce54ba8489e9b7b73",
+        "full_name":"Aluno 172",
+        "status":false
     },
     {
-        "student_hash":"90ac928388b07392bcd60a182058357639abb6a40d11428d518c5e3139b91ea8",
-        "full_name_masked":"Aluno 173",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"90ac928388b07392bcd60a182058357639abb6a40d11428d518c5e3139b91ea8",
+        "full_name":"Aluno 173",
+        "status":false
     },
     {
-        "student_hash":"338c96edb0131ddf629be04f5e69e15040d0e1dad191bad7f876929ccf115841",
-        "full_name_masked":"Aluno 174",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"338c96edb0131ddf629be04f5e69e15040d0e1dad191bad7f876929ccf115841",
+        "full_name":"Aluno 174",
+        "status":false
     },
     {
-        "student_hash":"256e59ace23e61787ba9a569776292dcc932764a0ede9d73a925e5a2f5f55cff",
-        "full_name_masked":"Aluno 175",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"256e59ace23e61787ba9a569776292dcc932764a0ede9d73a925e5a2f5f55cff",
+        "full_name":"Aluno 175",
+        "status":false
     },
     {
-        "student_hash":"bb41854cc2eb0bf6e982faea16d9ea6bee107e589dd331921a56b3083ad4ba83",
-        "full_name_masked":"Aluno 176",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"bb41854cc2eb0bf6e982faea16d9ea6bee107e589dd331921a56b3083ad4ba83",
+        "full_name":"Aluno 176",
+        "status":false
     },
     {
-        "student_hash":"6127d85950a2cc3d4f97104dab5bca63302f2378ce4697ce2996c701797dca33",
-        "full_name_masked":"Aluno 177",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"6127d85950a2cc3d4f97104dab5bca63302f2378ce4697ce2996c701797dca33",
+        "full_name":"Aluno 177",
+        "status":false
     },
     {
-        "student_hash":"300cae971f851b0ef3da404b2a733c6bec31dd5597d6c929575914de0b20f0e7",
-        "full_name_masked":"Aluno 178",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"300cae971f851b0ef3da404b2a733c6bec31dd5597d6c929575914de0b20f0e7",
+        "full_name":"Aluno 178",
+        "status":false
     },
     {
-        "student_hash":"2e8fbf84234c643052788ef6a2b6711af2903ea0744db0d647af6d97c69ee514",
-        "full_name_masked":"Aluno 179",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"2e8fbf84234c643052788ef6a2b6711af2903ea0744db0d647af6d97c69ee514",
+        "full_name":"Aluno 179",
+        "status":false
     },
     {
-        "student_hash":"54116cef49d46f3010c0f18d35984c9fe02e53489b5c0a7d67d60150a6530a9a",
-        "full_name_masked":"Aluno 180",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"54116cef49d46f3010c0f18d35984c9fe02e53489b5c0a7d67d60150a6530a9a",
+        "full_name":"Aluno 180",
+        "status":false
     },
     {
-        "student_hash":"8c00e96b79951d2d8f789b1fcbb8b7794e04ab3423a0ed5c5782b4b027e97d65",
-        "full_name_masked":"Aluno 181",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"8c00e96b79951d2d8f789b1fcbb8b7794e04ab3423a0ed5c5782b4b027e97d65",
+        "full_name":"Aluno 181",
+        "status":false
     },
     {
-        "student_hash":"28ff5afc5dce335deb01598ae85f9e48ae3b022b074bc0b6e0e2fb714a108cca",
-        "full_name_masked":"Aluno 182",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"28ff5afc5dce335deb01598ae85f9e48ae3b022b074bc0b6e0e2fb714a108cca",
+        "full_name":"Aluno 182",
+        "status":false
     },
     {
-        "student_hash":"672263ada8f0f52264a77a85436c38dd4a34df02ff4341bf1aea23b5275c5d0b",
-        "full_name_masked":"Aluno 183",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"672263ada8f0f52264a77a85436c38dd4a34df02ff4341bf1aea23b5275c5d0b",
+        "full_name":"Aluno 183",
+        "status":false
     },
     {
-        "student_hash":"fb3a214a510540ca67bdd1a45fd5db9d45a02f2db79c3e69fa1a87a25c942268",
-        "full_name_masked":"Aluno 184",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"fb3a214a510540ca67bdd1a45fd5db9d45a02f2db79c3e69fa1a87a25c942268",
+        "full_name":"Aluno 184",
+        "status":false
     },
     {
-        "student_hash":"66447baad6afe8f1f51a05f2a1ff5287a1f28e0e3216e8b712bad3048395500e",
-        "full_name_masked":"Aluno 185",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"66447baad6afe8f1f51a05f2a1ff5287a1f28e0e3216e8b712bad3048395500e",
+        "full_name":"Aluno 185",
+        "status":false
     },
     {
-        "student_hash":"04fa60a91b2a67fc976654ed5d18de351cd31ba1fc106e59645636f68a3e46d9",
-        "full_name_masked":"Aluno 186",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"04fa60a91b2a67fc976654ed5d18de351cd31ba1fc106e59645636f68a3e46d9",
+        "full_name":"Aluno 186",
+        "status":false
     },
     {
-        "student_hash":"b7c0177a112203867e882e0f16db979011514ce30c338a1c9557bded5e3d0ad1",
-        "full_name_masked":"Aluno 187",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"b7c0177a112203867e882e0f16db979011514ce30c338a1c9557bded5e3d0ad1",
+        "full_name":"Aluno 187",
+        "status":false
     },
     {
-        "student_hash":"3b79845a6534ecc9077f0b5e255f96829c1baf2d9b209fe8693664c3e114d50f",
-        "full_name_masked":"Aluno 188",
-        "role":"student",
-        "is_deactivated":false
+        "student_id":"3b79845a6534ecc9077f0b5e255f96829c1baf2d9b209fe8693664c3e114d50f",
+        "full_name":"Aluno 188",
+        "status":false
     }
 ]

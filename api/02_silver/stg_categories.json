@@ -1,0 +1,82 @@
+[
+    {
+        "cat_id":306,
+        "cat_pt_br":"Desenvolvimento"
+    },
+    {
+        "cat_id":336,
+        "cat_pt_br":"Language Learning"
+    },
+    {
+        "cat_id":326,
+        "cat_pt_br":"Data Science"
+    },
+    {
+        "cat_id":320,
+        "cat_pt_br":"Personal Development"
+    },
+    {
+        "cat_id":318,
+        "cat_pt_br":"Productivity"
+    },
+    {
+        "cat_id":308,
+        "cat_pt_br":"Finance & Accounting"
+    },
+    {
+        "cat_id":312,
+        "cat_pt_br":"IT Operations"
+    },
+    {
+        "cat_id":316,
+        "cat_pt_br":"Marketing"
+    },
+    {
+        "cat_id":302,
+        "cat_pt_br":"Cloud Computing"
+    },
+    {
+        "cat_id":310,
+        "cat_pt_br":"Workplace & Human Resources"
+    },
+    {
+        "cat_id":314,
+        "cat_pt_br":"Leadership & Management"
+    },
+    {
+        "cat_id":304,
+        "cat_pt_br":"Design Tools"
+    },
+    {
+        "cat_id":338,
+        "cat_pt_br":"Business Operations"
+    },
+    {
+        "cat_id":343,
+        "cat_pt_br":"Generative AI"
+    },
+    {
+        "cat_id":322,
+        "cat_pt_br":"Project & Product Management"
+    },
+    {
+        "cat_id":334,
+        "cat_pt_br":"Cybersecurity"
+    },
+    {
+        "cat_id":342,
+        "cat_pt_br":"Communication"
+    },
+    {
+        "cat_id":340,
+        "cat_pt_br":"UX, Web & Mobile Design"
+    },
+    {
+        "cat_id":324,
+        "cat_pt_br":"Sales & Customer Service"
+    },
+    {
+        "cat_id":332,
+        "cat_pt_br":"Continuing Education Units"
+    }
+]
