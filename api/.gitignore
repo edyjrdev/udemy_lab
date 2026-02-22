@@ -1,0 +1,32 @@
+# --- SEGURANÇA E CREDENCIAIS ---
+# Nunca subir arquivos de credenciais para o repositório
+credencial.json
+
+# --- LOGS E TELEMETRIA ---
+# Ignora todos os arquivos de log gerados diariamente
+*.log
+
+# --- DADOS E CACHE (Arquitetura Medalhão) ---
+# Ignora pastas de dados brutos, processados e finais para evitar inflar o Git
+01_bronze/
+# 02_silver/
+# 03_gold/
+
+# --- PYTHON E AMBIENTE VIRTUAL ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# --- FERRAMENTAS DE DESENVOLVIMENTO ---
+.ipynb_checkpoints
+.vscode/
+.idea/
+
+# --- POETRY ---
+# O arquivo poetry.lock deve ser versionado, mas caches locais não
+.pytest_cache/
