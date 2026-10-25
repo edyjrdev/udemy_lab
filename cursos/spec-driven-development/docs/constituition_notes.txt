@@ -1,0 +1,9 @@
+Seguir as boas práticas de Clean Code e SOLID aplicaveis a engenharia de Dados.
+Utilizar a Arquitetura Medalhão com camadas bronze, silver e gold.
+Na camada bronze utilizar todos recursos de ingestão das fontes de dados.
+Na camada silver utilizar para realizar todas as transformações sobre os recursos da camada bronze.
+Na camada gold utilizar para disponibilizar os dados para usuário final seja como API ou MCP para
+configuração de Painel e integração com outros sistemas.
+Realizar a Modelagem de Dados análitica para criação de um Dataware House.
+Toda documentação dever estar e Português do Brasil (pt-br).
+As operações precisam ser idepotentes, isto é, podem ser reexecutadas com permanência da consistência do Dataware House. 
